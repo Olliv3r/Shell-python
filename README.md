@@ -11,4 +11,4 @@ apt update && apt upgrade && apt install netcat-openbsd python vim -y
 vi shell.py
 ```
 
-## Pra salver o script no vim, digite `esc:wq` e enter pra salvar e sair
+## Digite `esc:wq` e enter pra salvar e sair
